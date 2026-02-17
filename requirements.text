@@ -1,0 +1,13 @@
+# Core Data Science Libraries
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+
+# Notebook Environment
+jupyter==1.0.0
+notebook==7.2.0
+
+# Optional (recommended for extended analysis)
+seaborn==0.13.2
+scipy==1.13.1
